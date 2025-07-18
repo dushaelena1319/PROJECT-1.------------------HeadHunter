@@ -1,17 +1,17 @@
 # PROJECT-1. Анализ резюме из HeadHunter
 
 ## Оглавление  
-
-[2. Какой кейс решаем?](https://github.com/Jopel003/My_homework/tree/main/2.%20PROJECT-1/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/Jopel003/My_homework/tree/main/2.%20PROJECT-1/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/Jopel003/My_homework/tree/main/2.%20PROJECT-1/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/Jopel003/My_homework/tree/main/2.%20PROJECT-1README.md#Результат)  
-[6. Выводы](https://github.com/Jopel003/My_homework/tree/main/2.%20PROJECT-1/README.md#Выводы)     
+[1. Оглавление](https://github.com/dushaelena1319/PROJECT-1.------------------HeadHunter/blob/main/project/README.md#Оглавление)  
+[2. Какой кейс решаем?](https://github.com/dushaelena1319/PROJECT-1.------------------HeadHunter/blob/main/project/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/dushaelena1319/PROJECT-1.------------------HeadHunter/blob/main/project/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/dushaelena1319/PROJECT-1.------------------HeadHunter/blob/main/project/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/dushaelena1319/PROJECT-1.------------------HeadHunter/blob/main/project/README.md#Результат)  
+[6. Выводы](https://github.com/dushaelena1319/PROJECT-1.------------------HeadHunter/blob/main/project/README.md#Выводы)     
 
 ### Описание проекта    
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Но, как вы знаете, прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить.
 
-:arrow_up:[к оглавлению](https://github.com/Jopel003/My_homework/tree/main/2.%20PROJECT-1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/dushaelena1319/PROJECT-1.------------------HeadHunter/blob/main/project/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -54,7 +54,7 @@
 - Предоставлен [ноутбук-шаблон](https://lms.skillfactory.ru/assets/courseware/v1/1577d067038f8073197105c174f05822/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/Project-1._%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
 - В дирректории Plotly графики в формате HTML
   
-:arrow_up:[к оглавлению](https://github.com/Jopel003/My_homework/tree/main/2.%20PROJECT-1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/dushaelena1319/PROJECT-1.------------------HeadHunter/blob/main/project/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -63,15 +63,16 @@
 3. Очистка данных;
 4. Выводы и предложения.
 
-:arrow_up:[к оглавлению](https://github.com/Jopel003/My_homework/tree/main/2.%20PROJECT-1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/dushaelena1319/PROJECT-1.------------------HeadHunter/blob/main/project/README.md#Оглавление)
 
 
 ### Результат:  
    1. Все задания проекта решены.
    
-:arrow_up:[к оглавлению](https://github.com/Jopel003/My_homework/tree/main/2.%20PROJECT-1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/dushaelena1319/PROJECT-1.------------------HeadHunter/blob/main/project/README.md#Оглавление)
 
 
 ### Выводы:  
 Цель достигнута. "Влюбляюсь" во все что делаю.
-:arrow_up:[к оглавлению](https://github.com/Jopel003/My_homework/tree/main/2.%20PROJECT-1/README.md#Оглавление)
+
+:arrow_up:[к оглавлению](https://github.com/dushaelena1319/PROJECT-1.------------------HeadHunter/blob/main/project/README.md#Оглавление)
